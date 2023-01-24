@@ -1,0 +1,2 @@
+DELETE FROM ville WHERE code='59999' AND region='31' AND departement='59' AND nom='Shai-Toa' AND coordonnees='50.89512589564,6.12568556';
+DELETE FROM ville WHERE code='59999' AND region='31' AND departement='59' AND nom='Shen-Ou' AND coordonnees='50.89512589564,6.12568556';

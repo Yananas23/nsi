@@ -1,0 +1,1 @@
+DELETE FROM evolution WHERE code='59999' AND categorie='Ω' AND genre='Hommes' AND effectif=42;

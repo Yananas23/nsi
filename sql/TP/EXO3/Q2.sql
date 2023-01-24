@@ -1,0 +1,1 @@
+UPDATE ville SET nom='Shai-Moa' WHERE nom='Shai-Toa';
